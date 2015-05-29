@@ -1,0 +1,1216 @@
+{
+	"HotelInformationResponse": {
+		"@hotelId": "114409",
+		"customerSessionId": "0ABAA82D-9C49-DEE9-13C2-5F15A0E59DE7",
+		"HotelSummary": {
+			"@order": "0",
+			"hotelId": 114409,
+			"name": "The Strand Palace",
+			"address1": "372 The Strand",
+			"city": "London",
+			"postalCode": "WC2R 0JJ",
+			"countryCode": "GB",
+			"propertyCategory": 1,
+			"hotelRating": 3,
+			"tripAdvisorRating": 3.5,
+			"tripAdvisorReviewCount": 2541,
+			"tripAdvisorRatingUrl": "http:\/\/www.tripadvisor.com\/img\/cdsi\/img2\/ratings\/traveler\/3.5-12345-4.gif",
+			"locationDescription": "Near Trafalgar Square",
+			"highRate": 280.0185,
+			"lowRate": 250.1416,
+			"latitude": 51.51075,
+			"longitude": -0.12075
+		},
+		"HotelDetails": {
+			"numberOfRooms": 785,
+			"numberOfFloors": 1,
+			"checkInTime": "2:00 PM",
+			"checkOutTime": "12:00 PM",
+			"propertyInformation": "Pets not allowed   Check-out time is noon  Check-in time starts at 2 PM  ",
+			"areaInformation": "Distances are calculated in a straight line from the property&apos;s location to the point of interest or attraction, and may not reflect actual travel distance. &lt;br \/&gt;&lt;br \/&gt; Distances are displayed to the nearest 0.1 mile and kilometre. &lt;p&gt;Lyceum Theatre - 0.1 km \/ 0.1 mi &lt;br \/&gt;London Transport Museum - 0.2 km \/ 0.1 mi &lt;br \/&gt;Covent Garden - 0.2 km \/ 0.1 mi &lt;br \/&gt;Covent Garden Market - 0.2 km \/ 0.1 mi &lt;br \/&gt;London St. Paul&apos;s Church - 0.2 km \/ 0.1 mi &lt;br \/&gt;Theatre Royal Drury Lane - 0.2 km \/ 0.1 mi &lt;br \/&gt;Victoria Embankment Gardens - 0.2 km \/ 0.1 mi &lt;br \/&gt;King&apos;s College London - 0.2 km \/ 0.1 mi &lt;br \/&gt;Somerset House - 0.3 km \/ 0.2 mi &lt;br \/&gt;Cleopatra&apos;s Needle - 0.3 km \/ 0.2 mi &lt;br \/&gt;Royal Opera House - 0.3 km \/ 0.2 mi &lt;br \/&gt;Waterloo Bridge - 0.4 km \/ 0.2 mi &lt;br \/&gt;Coliseum Theatre - 0.4 km \/ 0.3 mi &lt;br \/&gt;Noel Coward Theatre - 0.5 km \/ 0.3 mi &lt;br \/&gt;Benjamin Franklin House - 0.5 km \/ 0.3 mi &lt;br \/&gt;&lt;\/p&gt;&lt;p&gt;The nearest airports are:&lt;br \/&gt;London (LCY-London City) - 11.8 km \/ 7.3 mi&lt;br \/&gt;London (LHR-Heathrow) - 23.2 km \/ 14.4 mi&lt;br \/&gt;&lt;\/p&gt;&lt;p&gt;The preferred airport for The Strand Palace is London (LHR-Heathrow). &lt;\/p&gt;",
+			"propertyDescription": "&lt;p&gt;&lt;b&gt;Location. &lt;\/b&gt; &lt;br \/&gt;Located in central London, The Strand Palace is a business-friendly hotel within walking distance of Lyceum Theatre, Covent Garden, and Royal Opera House. Additional points of interest include Royal Courts of Justice - Law Courts and Banqueting House. &lt;\/p&gt;&lt;p&gt;&lt;b&gt;Hotel Features. &lt;\/b&gt;&lt;br \/&gt;Dining options at The Strand Palace include a restaurant and a coffee shop\/café. A bar\/lounge is open for drinks. Room service is available 24 hours a day. The hotel serves full breakfasts (surcharges apply). Recreational amenities include a fitness facility. This 3-star property has a business center and offers small meeting rooms and audiovisual equipment. Complimentary wireless Internet access is available in public areas. This London property has event space consisting of banquet facilities, conference\/meeting rooms, and exhibit space. The property offers a roundtrip airport shuttle (surcharge).  Additional property amenities include a concierge desk, multilingual staff, and laundry facilities. This is a smoke-free property. &lt;\/p&gt;&lt;p&gt;&lt;b&gt;Guestrooms. &lt;\/b&gt; &lt;br \/&gt; 785  guestrooms at The Strand Palace feature laptop-compatible safes and coffee\/tea makers. Bathrooms feature complimentary toiletries and hair dryers. Wireless Internet access is complimentary. Guestrooms offer desks and complimentary newspapers. Televisions have satellite channels and pay movies. Guests may request irons\/ironing boards and wake-up calls. Housekeeping is available daily. &lt;\/p&gt; &lt;br \/&gt;&lt;br \/&gt; &lt;p&gt;&lt;strong&gt;Notifications and Fees:&lt;\/strong&gt;&lt;br \/&gt;&lt;\/p&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;There are no room charges for children 12 years old and younger who occupy the same room as their parents or guardians, using existing bedding. &lt;\/li&gt;&lt;li&gt;No onsite parking is available. &lt;\/li&gt; &lt;\/ul&gt;&lt;\/p&gt;&lt;p&gt;&lt;\/p&gt;&lt;p&gt;&lt;\/p&gt; &lt;p&gt;The following fees and deposits are charged by the property at time of service, check-in, or check-out.  &lt;ul&gt;&lt;li&gt;Fee for wireless Internet in public areas: GBP 10 (for 24 hours, rates may vary)&lt;\/li&gt;&lt;li&gt;Fee for in-room wireless Internet: GBP 10 (for 24 hours, rates may vary)&lt;\/li&gt;&lt;li&gt;Full breakfast fee: GBP 15 per person (approximately)&lt;\/li&gt; &lt;\/ul&gt;&lt;\/p&gt;&lt;p&gt;The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. &lt;\/p&gt;",
+			"hotelPolicy": "You must present a photo ID when checking in. Your credit card is charged at the time you book. Bed type and smoking preferences are not guaranteed.Your reservation is prepaid and is guaranteed for late arrival. The total charge includes all room charges and taxes, as well as fees for access and booking. Any incidental charges such as parking, phone calls, and room service will be handled directly between you and the property.",
+			"roomInformation": "&lt;br \/&gt;&lt;br \/&gt; &lt;p&gt;&lt;strong&gt;Notifications and Fees:&lt;\/strong&gt;&lt;br \/&gt;&lt;\/p&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;There are no room charges for children 12 years old and younger who occupy the same room as their parents or guardians, using existing bedding. &lt;\/li&gt;&lt;li&gt;No onsite parking is available. &lt;\/li&gt; &lt;\/ul&gt;&lt;\/p&gt;&lt;p&gt;&lt;\/p&gt;&lt;p&gt;&lt;\/p&gt; &lt;p&gt;The following fees and deposits are charged by the property at time of service, check-in, or check-out.  &lt;ul&gt;&lt;li&gt;Fee for wireless Internet in public areas: GBP 10 (for 24 hours, rates may vary)&lt;\/li&gt;&lt;li&gt;Fee for in-room wireless Internet: GBP 10 (for 24 hours, rates may vary)&lt;\/li&gt;&lt;li&gt;Full breakfast fee: GBP 15 per person (approximately)&lt;\/li&gt; &lt;\/ul&gt;&lt;\/p&gt;&lt;p&gt;The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. &lt;\/p&gt;",
+			"drivingDirections": "",
+			"checkInInstructions": "Extra-person charges may apply and vary depending on hotel policy. <br \/>Government-issued photo identification and a credit card or cash deposit are required at check-in for incidental charges. <br \/>Special requests are subject to availability upon check-in and may incur additional charges. Special requests cannot be guaranteed. <br \/> <ul><li>No onsite parking is available. <\/li><\/ul>"
+		},
+		"Suppliers": {
+			"@size": "1",
+			"Supplier": {
+				"@chainCode": "EP",
+				"@id": "13"
+			}
+		},
+		"RoomTypes": {
+			"@size": "9",
+			"RoomType": [{
+				"@roomCode": "22",
+				"@roomTypeId": "138049",
+				"description": "Superior Club Double",
+				"descriptionLong": "One double bed. Bright, airy, contemporary decor. Plasma TV with digital channels and pay movies. High-speed Internet connection, and wireless Internet access(surcharge). Bathroom with bathrobes on request. Club check-in facilities. Complimentary <i>Virgin Active<\/i> gym pass.",
+				"roomAmenities": {
+					"@size": "17",
+					"RoomAmenity": [{
+						"@amenityId": "1417455",
+						"amenity": "Coffee\/tea maker "
+					},
+					{
+						"@amenityId": "14920756",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "1417461",
+						"amenity": "Complimentary toiletries "
+					},
+					{
+						"@amenityId": "1417472",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "1417454",
+						"amenity": "Daily housekeeping "
+					},
+					{
+						"@amenityId": "1417463",
+						"amenity": "Desk "
+					},
+					{
+						"@amenityId": "1417467",
+						"amenity": "Electronic\/magnetic keys "
+					},
+					{
+						"@amenityId": "1417466",
+						"amenity": "Extra towels\/bedding in room "
+					},
+					{
+						"@amenityId": "14920758",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "1417460",
+						"amenity": "Hair dryer "
+					},
+					{
+						"@amenityId": "7785739",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "1417471",
+						"amenity": "Iron\/ironing board (on request) "
+					},
+					{
+						"@amenityId": "1417464",
+						"amenity": "Pay movies "
+					},
+					{
+						"@amenityId": "1417462",
+						"amenity": "Private bathroom "
+					},
+					{
+						"@amenityId": "14920757",
+						"amenity": "Satellite television service "
+					},
+					{
+						"@amenityId": "1417457",
+						"amenity": "Television "
+					},
+					{
+						"@amenityId": "1417458",
+						"amenity": "Wake-up calls "
+					}]
+				}
+			},
+			{
+				"@roomCode": "21",
+				"@roomTypeId": "149513",
+				"description": "Single Occupancy",
+				"descriptionLong": "<strong><ul><li>1 twin<\/li><\/ul><\/strong>Desk. Television with pay movies. <strong>Wireless Internet access (surcharge)<\/strong>. Laptop-compatible safe. Ensuite bathroom. Bath amenities include hair dryer and complimentary toiletries. Iron\/ironing board available on request. <strong>Non-Smoking<\/strong>.",
+				"roomAmenities": {
+					"@size": "17",
+					"RoomAmenity": [{
+						"@amenityId": "1647414",
+						"amenity": "Coffee\/tea maker "
+					},
+					{
+						"@amenityId": "14920759",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "1647411",
+						"amenity": "Complimentary toiletries "
+					},
+					{
+						"@amenityId": "1647405",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "1647413",
+						"amenity": "Daily housekeeping "
+					},
+					{
+						"@amenityId": "1647403",
+						"amenity": "Desk "
+					},
+					{
+						"@amenityId": "1647402",
+						"amenity": "Electronic\/magnetic keys "
+					},
+					{
+						"@amenityId": "1647401",
+						"amenity": "Extra towels\/bedding in room "
+					},
+					{
+						"@amenityId": "14920761",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "1647412",
+						"amenity": "Hair dryer "
+					},
+					{
+						"@amenityId": "7785740",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "1647409",
+						"amenity": "Iron\/ironing board (on request) "
+					},
+					{
+						"@amenityId": "1647404",
+						"amenity": "Pay movies "
+					},
+					{
+						"@amenityId": "1647410",
+						"amenity": "Private bathroom "
+					},
+					{
+						"@amenityId": "14920760",
+						"amenity": "Satellite television service "
+					},
+					{
+						"@amenityId": "1647418",
+						"amenity": "Television "
+					},
+					{
+						"@amenityId": "1647416",
+						"amenity": "Wake-up calls "
+					}]
+				}
+			},
+			{
+				"@roomCode": "7199",
+				"@roomTypeId": "153856",
+				"description": "Superior Club Single",
+				"descriptionLong": "One single bed. Bright, airy, contemporary decor. Plasma TV with digital channels and pay movies. High-speed Internet connection, and wireless Internet access(surcharge). Bathroom with bathrobes on request. Club check-in facilities. Complimentary <i>Virgin Active<\/i> gym pass.",
+				"roomAmenities": {
+					"@size": "17",
+					"RoomAmenity": [{
+						"@amenityId": "1734903",
+						"amenity": "Coffee\/tea maker "
+					},
+					{
+						"@amenityId": "14920762",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "1734901",
+						"amenity": "Complimentary toiletries "
+					},
+					{
+						"@amenityId": "1734890",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "1734897",
+						"amenity": "Daily housekeeping "
+					},
+					{
+						"@amenityId": "1734896",
+						"amenity": "Desk "
+					},
+					{
+						"@amenityId": "1734889",
+						"amenity": "Electronic\/magnetic keys "
+					},
+					{
+						"@amenityId": "1734888",
+						"amenity": "Extra towels\/bedding in room "
+					},
+					{
+						"@amenityId": "14920764",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "1734899",
+						"amenity": "Hair dryer "
+					},
+					{
+						"@amenityId": "7785741",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "1734892",
+						"amenity": "Iron\/ironing board (on request) "
+					},
+					{
+						"@amenityId": "1734895",
+						"amenity": "Pay movies "
+					},
+					{
+						"@amenityId": "1734900",
+						"amenity": "Private bathroom "
+					},
+					{
+						"@amenityId": "14920763",
+						"amenity": "Satellite television service "
+					},
+					{
+						"@amenityId": "1734905",
+						"amenity": "Television "
+					},
+					{
+						"@amenityId": "1734902",
+						"amenity": "Wake-up calls "
+					}]
+				}
+			},
+			{
+				"@roomCode": "23",
+				"@roomTypeId": "156048",
+				"description": "Standard Double ",
+				"descriptionLong": "One double bed. Bright, airy, contemporary decor. Plasma TV with digital channels and pay movies. Wireless Internet access (surcharge). Tea and coffee facilities. Bathroom with tub and shower. ",
+				"roomAmenities": {
+					"@size": "17",
+					"RoomAmenity": [{
+						"@amenityId": "1778703",
+						"amenity": "Coffee\/tea maker "
+					},
+					{
+						"@amenityId": "14920765",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "1778699",
+						"amenity": "Complimentary toiletries "
+					},
+					{
+						"@amenityId": "1778692",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "1778702",
+						"amenity": "Daily housekeeping "
+					},
+					{
+						"@amenityId": "1778688",
+						"amenity": "Desk "
+					},
+					{
+						"@amenityId": "1778695",
+						"amenity": "Electronic\/magnetic keys "
+					},
+					{
+						"@amenityId": "1778696",
+						"amenity": "Extra towels\/bedding in room "
+					},
+					{
+						"@amenityId": "14920767",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "1778701",
+						"amenity": "Hair dryer "
+					},
+					{
+						"@amenityId": "7785742",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "1778694",
+						"amenity": "Iron\/ironing board (on request) "
+					},
+					{
+						"@amenityId": "1778689",
+						"amenity": "Pay movies "
+					},
+					{
+						"@amenityId": "1778700",
+						"amenity": "Private bathroom "
+					},
+					{
+						"@amenityId": "14920766",
+						"amenity": "Satellite television service "
+					},
+					{
+						"@amenityId": "1778706",
+						"amenity": "Television "
+					},
+					{
+						"@amenityId": "1778704",
+						"amenity": "Wake-up calls "
+					}]
+				}
+			},
+			{
+				"@roomCode": "109127",
+				"@roomTypeId": "259922",
+				"description": "Standard Twin Room ",
+				"descriptionLong": "Two twin beds. Bright, airy, contemporary decor. Plasma TV with digital channels and pay movies. Wireless Internet access (surcharge). Tea and coffee facilities. Bathroom with tub and shower. ",
+				"roomAmenities": {
+					"@size": "18",
+					"RoomAmenity": [{
+						"@amenityId": "4001963",
+						"amenity": "Coffee\/tea maker "
+					},
+					{
+						"@amenityId": "14920768",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "4001968",
+						"amenity": "Complimentary toiletries "
+					},
+					{
+						"@amenityId": "4001958",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "4001962",
+						"amenity": "Daily housekeeping "
+					},
+					{
+						"@amenityId": "4001969",
+						"amenity": "Desk "
+					},
+					{
+						"@amenityId": "4001951",
+						"amenity": "Electronic\/magnetic keys "
+					},
+					{
+						"@amenityId": "4001952",
+						"amenity": "Extra towels\/bedding in room "
+					},
+					{
+						"@amenityId": "14920770",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "4001967",
+						"amenity": "Hair dryer "
+					},
+					{
+						"@amenityId": "7785743",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "4001956",
+						"amenity": "Iron\/ironing board (on request) "
+					},
+					{
+						"@amenityId": "8016536",
+						"amenity": "Non-smoking only "
+					},
+					{
+						"@amenityId": "4001961",
+						"amenity": "Pay movies "
+					},
+					{
+						"@amenityId": "4001970",
+						"amenity": "Private bathroom "
+					},
+					{
+						"@amenityId": "14920769",
+						"amenity": "Satellite television service "
+					},
+					{
+						"@amenityId": "4001955",
+						"amenity": "Television "
+					},
+					{
+						"@amenityId": "4001965",
+						"amenity": "Wake-up calls "
+					}]
+				}
+			},
+			{
+				"@roomCode": "182589",
+				"@roomTypeId": "321880",
+				"description": "Superior Club Twin",
+				"descriptionLong": "Two twin beds. Bright, airy, contemporary decor. Plasma TV with digital channels and pay movies. High-speed Internet connection, and wireless Internet access(surcharge). Bathroom with bathrobes on request. Club check-in facilities. Complimentary <i>Virgin Active<\/i> gym pass.   ",
+				"roomAmenities": {
+					"@size": "19",
+					"RoomAmenity": [{
+						"@amenityId": "4890843",
+						"amenity": "Coffee\/tea maker "
+					},
+					{
+						"@amenityId": "14920774",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "4890847",
+						"amenity": "Complimentary toiletries "
+					},
+					{
+						"@amenityId": "4890853",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "4890844",
+						"amenity": "Daily housekeeping "
+					},
+					{
+						"@amenityId": "4890849",
+						"amenity": "Desk "
+					},
+					{
+						"@amenityId": "4890856",
+						"amenity": "Electronic\/magnetic keys "
+					},
+					{
+						"@amenityId": "4890857",
+						"amenity": "Extra towels\/bedding in room "
+					},
+					{
+						"@amenityId": "14920776",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "4890848",
+						"amenity": "Hair dryer "
+					},
+					{
+						"@amenityId": "7785745",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "4890858",
+						"amenity": "Internet access (surcharge) "
+					},
+					{
+						"@amenityId": "4890855",
+						"amenity": "Iron\/ironing board (on request) "
+					},
+					{
+						"@amenityId": "8016538",
+						"amenity": "Non-smoking only "
+					},
+					{
+						"@amenityId": "4890850",
+						"amenity": "Pay movies "
+					},
+					{
+						"@amenityId": "4890846",
+						"amenity": "Private bathroom "
+					},
+					{
+						"@amenityId": "14920775",
+						"amenity": "Satellite television service "
+					},
+					{
+						"@amenityId": "4890840",
+						"amenity": "Television "
+					},
+					{
+						"@amenityId": "4890842",
+						"amenity": "Wake-up calls "
+					}]
+				}
+			},
+			{
+				"@roomCode": "200147723",
+				"@roomTypeId": "749940",
+				"description": "Executive King Room ",
+				"descriptionLong": "1 king bed. Wood desk. Plasma television. Satellite channels. Free movies. Complimentary high-speed wireless Internet access. In-room laptop compatible safe. iPod docking station. Voice mail. Complimentary newspapers. Private bathroom. Bathtub\/shower or shower. Hair dryer. Bathrobes. Slippers. Designer toiletries. Complimentary mineral water. Coffee\/tea maker. Complimentary <i>Virgin Active<\/i> Health Club pass. Complimentary luggage storage. Nonsmoking.",
+				"roomAmenities": {
+					"@size": "4",
+					"RoomAmenity": [{
+						"@amenityId": "14920777",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "13330564",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "14920779",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "14920778",
+						"amenity": "Satellite television service "
+					}]
+				}
+			},
+			{
+				"@roomCode": "200147726",
+				"@roomTypeId": "749941",
+				"description": "Executive Queen Room ",
+				"descriptionLong": "1 queen bed. Wood desk. Plasma television. Satellite channels. Free movies. Complimentary high-speed wireless Internet access. In-room laptop compatible safe. iPod docking station. Voice mail. Complimentary newspapers. Private bathroom. Bathtub\/shower or shower. Hair dryer. Bathrobes. Slippers. Designer toiletries. Complimentary mineral water. Coffee\/tea maker. Complimentary <i>Virgin Active<\/i> Health Club pass. Complimentary luggage storage. Nonsmoking.",
+				"roomAmenities": {
+					"@size": "4",
+					"RoomAmenity": [{
+						"@amenityId": "14920780",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "13330565",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "14920782",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "14920781",
+						"amenity": "Satellite television service "
+					}]
+				}
+			},
+			{
+				"@roomCode": "200147727",
+				"@roomTypeId": "749942",
+				"description": "Executive Single Room ",
+				"descriptionLong": "1 single bed. Wood desk. Plasma television. Satellite channels. Free movies. Complimentary high-speed wireless Internet access. In-room laptop compatible safe. iPod docking station. Voice mail. Complimentary newspapers. Private bathroom. Bathtub\/shower or shower. Hair dryer. Bathrobes. Slippers. Designer toiletries. Complimentary mineral water. Coffee\/tea maker. Complimentary <i>Virgin Active<\/i> Health Club pass. Complimentary luggage storage. Nonsmoking.",
+				"roomAmenities": {
+					"@size": "4",
+					"RoomAmenity": [{
+						"@amenityId": "14920783",
+						"amenity": "Complimentary newspaper "
+					},
+					{
+						"@amenityId": "13330566",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "14920785",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "14920784",
+						"amenity": "Satellite television service "
+					}]
+				}
+			}]
+		},
+		"PropertyAmenities": {
+			"@size": "36",
+			"PropertyAmenity": [{
+				"amenityId": 2666888,
+				"amenity": "24-hour front desk "
+			},
+			{
+				"amenityId": 3823472,
+				"amenity": "Accessibility equipment for the deaf "
+			},
+			{
+				"amenityId": 3823469,
+				"amenity": "Accessible bathroom "
+			},
+			{
+				"amenityId": 3823468,
+				"amenity": "Accessible path of travel "
+			},
+			{
+				"amenityId": 885881,
+				"amenity": "Airport transportation (surcharge)                    "
+			},
+			{
+				"amenityId": 2666880,
+				"amenity": "Audio-visual equipment "
+			},
+			{
+				"amenityId": 784377,
+				"amenity": "Banquet facilities                    "
+			},
+			{
+				"amenityId": 783864,
+				"amenity": "Bar\/lounge                    "
+			},
+			{
+				"amenityId": 3823473,
+				"amenity": "Braille or raised signage "
+			},
+			{
+				"amenityId": 2666883,
+				"amenity": "Breakfast available (surcharge) "
+			},
+			{
+				"amenityId": 785857,
+				"amenity": "Business center                    "
+			},
+			{
+				"amenityId": 2666884,
+				"amenity": "Coffee shop or café "
+			},
+			{
+				"amenityId": 2666887,
+				"amenity": "Complimentary newspapers in lobby  "
+			},
+			{
+				"amenityId": 782919,
+				"amenity": "Concierge desk                    "
+			},
+			{
+				"amenityId": 783683,
+				"amenity": "Conference room(s)                    "
+			},
+			{
+				"amenityId": 785862,
+				"amenity": "Currency exchange                    "
+			},
+			{
+				"amenityId": 8973497,
+				"amenity": "Doorman\/doorwoman "
+			},
+			{
+				"amenityId": 3893319,
+				"amenity": "Dry cleaning\/laundry service "
+			},
+			{
+				"amenityId": 785368,
+				"amenity": "Elevator\/lift                    "
+			},
+			{
+				"amenityId": 783041,
+				"amenity": "Event catering                    "
+			},
+			{
+				"amenityId": 783096,
+				"amenity": "Exhibit space                    "
+			},
+			{
+				"amenityId": 8255514,
+				"amenity": "Fitness facilities "
+			},
+			{
+				"amenityId": 8920765,
+				"amenity": "Free Wi-Fi "
+			},
+			{
+				"amenityId": 3823471,
+				"amenity": "In-room accessibility "
+			},
+			{
+				"amenityId": 785146,
+				"amenity": "Laundry facilities                    "
+			},
+			{
+				"amenityId": 2666891,
+				"amenity": "Meeting rooms (small groups) "
+			},
+			{
+				"amenityId": 2666886,
+				"amenity": "Multilingual staff "
+			},
+			{
+				"amenityId": 2666879,
+				"amenity": "Number of rooms: 785 "
+			},
+			{
+				"amenityId": 8973496,
+				"amenity": "Parking nearby "
+			},
+			{
+				"amenityId": 8973498,
+				"amenity": "Parking nearby (surcharge) "
+			},
+			{
+				"amenityId": 2666878,
+				"amenity": "Restaurant(s) in hotel "
+			},
+			{
+				"amenityId": 785258,
+				"amenity": "Room service (24 hours)                    "
+			},
+			{
+				"amenityId": 2666885,
+				"amenity": "Safe-deposit box - front desk "
+			},
+			{
+				"amenityId": 783472,
+				"amenity": "Security guard                    "
+			},
+			{
+				"amenityId": 2666892,
+				"amenity": "Smoke-free property  "
+			},
+			{
+				"amenityId": 2666882,
+				"amenity": "Tour assistance "
+			}]
+		},
+		"HotelImages": {
+			"@size": "39",
+			"HotelImage": [{
+				"hotelImageId": 5076738,
+				"name": "",
+				"category": 1,
+				"type": 0,
+				"caption": "Exterior",
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_93_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_93_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076742,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_97_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_97_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076746,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_101_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_101_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 7027941,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_107_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_107_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 7027942,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_108_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_108_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213548,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_110_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_110_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213549,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_111_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_111_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213550,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_112_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_112_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213551,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_113_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_113_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213552,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_114_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_114_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213553,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_115_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_115_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213554,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_116_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_116_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213557,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_119_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_119_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213558,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_120_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_120_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213559,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_121_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_121_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213560,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_122_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_122_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213561,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_123_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_123_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 8213562,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_124_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_124_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 2971263,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_49_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_49_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 2971264,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_50_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_50_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 2971265,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_51_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_51_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 2971267,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_53_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_53_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 2971273,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_59_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_59_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 2971274,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_60_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_60_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076706,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_61_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_61_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076707,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_62_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_62_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076709,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_64_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_64_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076714,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_69_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_69_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076715,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_70_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_70_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076717,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_72_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_72_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076720,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_75_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_75_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076721,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_76_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_76_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076724,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_79_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_79_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076729,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_84_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_84_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076730,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_85_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_85_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076732,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_87_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_87_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076733,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_88_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_88_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076735,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_90_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_90_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			},
+			{
+				"hotelImageId": 5076737,
+				"name": "",
+				"category": 0,
+				"type": 0,
+				"url": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_92_b.jpg",
+				"thumbnailUrl": "http:\/\/images.travelnow.com\/hotels\/1000000\/10000\/200\/179\/179_92_t.jpg",
+				"supplierId": 13,
+				"width": 350,
+				"height": 350,
+				"byteSize": 0
+			}]
+		}
+	}
+}

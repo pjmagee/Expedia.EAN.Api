@@ -1,0 +1,1408 @@
+﻿{
+	"HotelRoomAvailabilityResponse": {
+		"@size": "8",
+		"customerSessionId": "0ABAA843-0682-2391-3CC2-CF6F03393718",
+		"hotelId": 357188,
+		"arrivalDate": "2\/13\/2013",
+		"departureDate": "2\/19\/2013",
+		"hotelName": "Corinthia Hotel London",
+		"hotelAddress": "Whitehall Place",
+		"hotelCity": "London",
+		"hotelCountry": "GB",
+		"numberOfRoomsRequested": 3,
+		"checkInInstructions": "<br \/><br \/> <p><strong>Notifications and Fees:<\/strong><br \/><\/p><p><ul><li>All guests staying in hotel guestrooms must be registered with the hotel. <\/li> <li>Connecting\/adjoining rooms may be available, subject to availability. Guests can request connecting\/adjoining rooms by contacting the property directly, using the contact information on the booking confirmation. <\/li> <\/ul><\/p><p><\/p><p><\/p> <p>The following fees and deposits are charged by the property at time of service, check-in, or check-out.  <ul><li>English breakfast fee: GBP 31.00 per person (approximately)<\/li> <\/ul><\/p><p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. <\/p>",
+		"tripAdvisorRating": 5,
+		"tripAdvisorReviewCount": 438,
+		"tripAdvisorRatingUrl": "http:\/\/www.tripadvisor.com\/img\/cdsi\/img2\/ratings\/traveler\/5.0-12345-4.gif",
+		"HotelRoomResponse": [{
+			"rateCode": 200464928,
+			"rateDescription": "Superior Courtyard King  - Room Only",
+			"RoomType": {
+				"@roomCode": "200078065",
+				"@roomTypeId": "686677",
+				"description": "Superior Courtyard King ",
+				"descriptionLong": "<strong><ul><li>One King Bed<\/li><\/ul><\/strong>This city or courtyard view room measures 344 square feet (32 square meters). Complimentary wired and wireless Internet access keeps you connected, and the LCD television is offered for your entertainment. Request an in-room massage. A coffee\/tea maker is supplied. The private bathroom has a deep soaking bathtub and separate shower with a handheld showerhead, as well as designer toiletries and complimentary toiletries. Air conditioning, a separate living room, and a direct-dial phone with speakerphone capability are among the conveniences offered.  <p><\/p>",
+				"roomAmenities": {
+					"@size": "9",
+					"RoomAmenity": [{
+						"@amenityId": "14744104",
+						"amenity": "Connecting \/ adjoining rooms available "
+					},
+					{
+						"@amenityId": "13390611",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "12234000",
+						"amenity": "Fax machine "
+					},
+					{
+						"@amenityId": "12955187",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "12955202",
+						"amenity": "Free wired high-speed Internet "
+					},
+					{
+						"@amenityId": "12234003",
+						"amenity": "In-room massage available "
+					},
+					{
+						"@amenityId": "12341995",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "11554644",
+						"amenity": "Rollaway\/extra beds available "
+					},
+					{
+						"@amenityId": "12234002",
+						"amenity": "Soundproofed rooms "
+					}]
+				}
+			},
+			"supplierType": "E",
+			"propertyId": 3849185,
+			"BedTypes": {
+				"@size": "1",
+				"BedType": {
+					"@id": "14",
+					"description": "One King Bed"
+				}
+			},
+			"smokingPreferences": "S,NS",
+			"rateOccupancyPerRoom": 2,
+			"quotedOccupancy": 2,
+			"minGuestAge": 0,
+			"RateInfos": {
+				"@size": "1",
+				"RateInfo": {
+					"@rateChange": "false",
+					"@promo": "true",
+					"@priceBreakdown": "true",
+					"RoomGroup": {
+						"Room": [{
+							"numberOfAdults": 1,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 2,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 1,
+							"numberOfChildren": 1,
+							"childAges": 4,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						}]
+					},
+					"ChargeableRateInfo": {
+						"@total": "7560.0",
+						"@surchargeTotal": "1260.0",
+						"@nightlyRateTotal": "6300.0",
+						"@maxNightlyRate": "350.0",
+						"@currencyCode": "GBP",
+						"@commissionableUsdTotal": "9865.32",
+						"@averageRate": "350.0",
+						"@averageBaseRate": "700.0",
+						"NightlyRatesPerRoom": {
+							"@size": "6",
+							"NightlyRate": [{
+								"@promo": "true",
+								"@rate": "350.0",
+								"@baseRate": "700.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "350.0",
+								"@baseRate": "700.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "350.0",
+								"@baseRate": "700.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "350.0",
+								"@baseRate": "700.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "350.0",
+								"@baseRate": "700.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "350.0",
+								"@baseRate": "700.0"
+							}]
+						},
+						"Surcharges": {
+							"@size": "1",
+							"Surcharge": {
+								"@amount": "1260.0",
+								"@type": "TaxAndServiceFee"
+							}
+						}
+					},
+					"cancellationPolicy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Corinthia Hotel London) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London) on Feb 12, 2013 are subject to a 1 Night Room &amp; Tax penalty. The property makes no refunds for no shows or early checkouts.",
+					"CancelPolicyInfoList": {
+						"CancelPolicyInfo": [{
+							"versionId": 207519550,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 0,
+							"nightCount": 1,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						},
+						{
+							"versionId": 207519549,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 24,
+							"nightCount": 0,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						}]
+					},
+					"nonRefundable": false,
+					"rateType": "MerchantStandard",
+					"promoId": 202596417,
+					"promoDescription": "Save 50% on this stay!",
+					"currentAllotment": 0,
+					"guaranteeRequired": false,
+					"depositRequired": true,
+					"taxRate": 1260
+				}
+			},
+			"deepLink": "http:\/\/travel.ian.com\/hotels\/priceCheck.jsp?cid=55505&amp;locale=en_GB&amp;currencyCode=GBP&amp;numberOfRooms=3&amp;room-0-adult-total=1&amp;room-0-child-total=0&amp;room-1-adult-total=2&amp;room-1-child-total=0&amp;room-2-adult-total=1&amp;room-2-child-total=1&amp;room-2-child-0-age=4&amp;rateChange=false&amp;rateDescription=Superior+Courtyard+King++-+Room+Only&amp;rateCode=200464928&amp;roomTypeCodeDescription=Superior+Courtyard+King++-+Room+Only&amp;roomTypeCode=200078065&amp;cityLink=London&amp;countryLink=GB&amp;resType=hotel&amp;propertyID=3849185&amp;hotelID=357188&amp;supplierType=E&amp;propertyType=H&amp;requestKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;rateKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;arrivalMonth=1&amp;arrivalDay=13&amp;arrivalYear=2013&amp;departureMonth=1&amp;departureDay=19&amp;departureYear=2013&amp;nativeNightlyRates=700.0,700.0,700.0,700.0,700.0,700.0&amp;nativeCurrencyCode=GBP&amp;nativeRoomRate=13860.0&amp;displayNightlyRates=700.0,700.0,700.0,700.0,700.0,700.0&amp;displayCurrencyCode=GBP&amp;displayRoomRate=13860.0&amp;chargeableRoomRateTotal=13860.0&amp;chargeableRoomRateTaxes=1260.0&amp;guarantee=C&amp;cancellationPolicy=We+understand+that+sometimes+your+travel+plans+change.+We+do+not+charge+a+change+or+cancel+fee.+However%2C+this+property+%28Corinthia+Hotel+London%29+imposes+the+following+penalty+to+its+customers+that+we+are+required+to+pass+on%3A+Cancellations+or+changes+made+after+6%3A00+PM+%28%28GMT%29+Greenwich+Mean+Time+%3A+Dublin%2C+Edinburgh%2C+Lisbon%2C+London%29+on+Feb+12%2C+2013+are+subject+to+a+1+Night+Room+%26+Tax+penalty.+The+property+makes+no+refunds+for+no+shows+or+early+checkouts.&amp;directConnect=false&amp;rateFrequency=B&amp;rateIsBase=true",
+			"RoomImages": {
+				"@size": "1",
+				"RoomImage": {
+					"url": "http:\/\/media.expedia.com\/hotels\/4000000\/3850000\/3849200\/3849185\/3849185_70_s.jpg"
+				}
+			}
+		},
+		{
+			"rateCode": 200464914,
+			"rateDescription": "Deluxe Courtyard King ",
+			"RoomType": {
+				"@roomCode": "200078055",
+				"@roomTypeId": "686672",
+				"description": "Deluxe Courtyard King ",
+				"descriptionLong": "<strong><ul><li>One King Bed<\/li><\/ul><\/strong>This city or courtyard view room measures 420 square feet (39 square meters). Complimentary wired and wireless Internet access keeps you connected, and the LCD television is offered for your entertainment. Request an in-room massage. A coffee\/tea maker is supplied. The private bathroom has a deep soaking bathtub and separate shower with a handheld showerhead, as well as designer toiletries and complimentary toiletries. Climate control, a laptop-compatible safe, and a direct-dial phone with speakerphone capability are conveniently included.  <p><\/p>",
+				"roomAmenities": {
+					"@size": "9",
+					"RoomAmenity": [{
+						"@amenityId": "14744099",
+						"amenity": "Connecting \/ adjoining rooms available "
+					},
+					{
+						"@amenityId": "13390606",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "12233970",
+						"amenity": "Fax machine "
+					},
+					{
+						"@amenityId": "12955182",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "12955197",
+						"amenity": "Free wired high-speed Internet "
+					},
+					{
+						"@amenityId": "12233973",
+						"amenity": "In-room massage available "
+					},
+					{
+						"@amenityId": "12341990",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "11552631",
+						"amenity": "Rollaway\/extra beds available "
+					},
+					{
+						"@amenityId": "12233972",
+						"amenity": "Soundproofed rooms "
+					}]
+				}
+			},
+			"supplierType": "E",
+			"propertyId": 3849185,
+			"BedTypes": {
+				"@size": "1",
+				"BedType": {
+					"@id": "14",
+					"description": "One King Bed"
+				}
+			},
+			"smokingPreferences": "S,NS",
+			"rateOccupancyPerRoom": 2,
+			"quotedOccupancy": 2,
+			"minGuestAge": 0,
+			"RateInfos": {
+				"@size": "1",
+				"RateInfo": {
+					"@rateChange": "false",
+					"@promo": "true",
+					"@priceBreakdown": "true",
+					"RoomGroup": {
+						"Room": [{
+							"numberOfAdults": 1,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 2,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 1,
+							"numberOfChildren": 1,
+							"childAges": 4,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						}]
+					},
+					"ChargeableRateInfo": {
+						"@total": "8046.0",
+						"@surchargeTotal": "1341.0",
+						"@nightlyRateTotal": "6705.0",
+						"@maxNightlyRate": "372.5",
+						"@currencyCode": "GBP",
+						"@commissionableUsdTotal": "10499.5205",
+						"@averageRate": "372.5",
+						"@averageBaseRate": "745.0",
+						"NightlyRatesPerRoom": {
+							"@size": "6",
+							"NightlyRate": [{
+								"@promo": "true",
+								"@rate": "372.5",
+								"@baseRate": "745.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "372.5",
+								"@baseRate": "745.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "372.5",
+								"@baseRate": "745.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "372.5",
+								"@baseRate": "745.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "372.5",
+								"@baseRate": "745.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "372.5",
+								"@baseRate": "745.0"
+							}]
+						},
+						"Surcharges": {
+							"@size": "1",
+							"Surcharge": {
+								"@amount": "1341.0",
+								"@type": "TaxAndServiceFee"
+							}
+						}
+					},
+					"cancellationPolicy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Corinthia Hotel London) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London) on Feb 12, 2013 are subject to a 1 Night Room &amp; Tax penalty. The property makes no refunds for no shows or early checkouts.",
+					"CancelPolicyInfoList": {
+						"CancelPolicyInfo": [{
+							"versionId": 207519550,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 0,
+							"nightCount": 1,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						},
+						{
+							"versionId": 207519549,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 24,
+							"nightCount": 0,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						}]
+					},
+					"nonRefundable": false,
+					"rateType": "MerchantStandard",
+					"promoId": 202596417,
+					"promoDescription": "Save 50% on this stay!",
+					"currentAllotment": 0,
+					"guaranteeRequired": false,
+					"depositRequired": true,
+					"taxRate": 1341
+				}
+			},
+			"deepLink": "http:\/\/travel.ian.com\/hotels\/priceCheck.jsp?cid=55505&amp;locale=en_GB&amp;currencyCode=GBP&amp;numberOfRooms=3&amp;room-0-adult-total=1&amp;room-0-child-total=0&amp;room-1-adult-total=2&amp;room-1-child-total=0&amp;room-2-adult-total=1&amp;room-2-child-total=1&amp;room-2-child-0-age=4&amp;rateChange=false&amp;rateDescription=Deluxe+Courtyard+King+&amp;rateCode=200464914&amp;roomTypeCodeDescription=Deluxe+Courtyard+King+&amp;roomTypeCode=200078055&amp;cityLink=London&amp;countryLink=GB&amp;resType=hotel&amp;propertyID=3849185&amp;hotelID=357188&amp;supplierType=E&amp;propertyType=H&amp;requestKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;rateKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;arrivalMonth=1&amp;arrivalDay=13&amp;arrivalYear=2013&amp;departureMonth=1&amp;departureDay=19&amp;departureYear=2013&amp;nativeNightlyRates=745.0,745.0,745.0,745.0,745.0,745.0&amp;nativeCurrencyCode=GBP&amp;nativeRoomRate=14751.0&amp;displayNightlyRates=745.0,745.0,745.0,745.0,745.0,745.0&amp;displayCurrencyCode=GBP&amp;displayRoomRate=14751.0&amp;chargeableRoomRateTotal=14751.0&amp;chargeableRoomRateTaxes=1341.0&amp;guarantee=C&amp;cancellationPolicy=We+understand+that+sometimes+your+travel+plans+change.+We+do+not+charge+a+change+or+cancel+fee.+However%2C+this+property+%28Corinthia+Hotel+London%29+imposes+the+following+penalty+to+its+customers+that+we+are+required+to+pass+on%3A+Cancellations+or+changes+made+after+6%3A00+PM+%28%28GMT%29+Greenwich+Mean+Time+%3A+Dublin%2C+Edinburgh%2C+Lisbon%2C+London%29+on+Feb+12%2C+2013+are+subject+to+a+1+Night+Room+%26+Tax+penalty.+The+property+makes+no+refunds+for+no+shows+or+early+checkouts.&amp;directConnect=false&amp;rateFrequency=B&amp;rateIsBase=true",
+			"RoomImages": {
+				"@size": "1",
+				"RoomImage": {
+					"url": "http:\/\/media.expedia.com\/hotels\/4000000\/3850000\/3849200\/3849185\/3849185_20_s.jpg"
+				}
+			}
+		},
+		{
+			"rateCode": 200464917,
+			"rateDescription": "Executive king room",
+			"RoomType": {
+				"@roomCode": "200078058",
+				"@roomTypeId": "686673",
+				"description": "Executive king room",
+				"descriptionLong": "<strong><ul><li>One King Bed<\/li><\/ul><\/strong>This city or courtyard view room measures 484 square feet (45 square meters). Complimentary wired and wireless Internet access keeps you connected, and the LCD television is offered for your entertainment. Request an in-room massage. A coffee\/tea maker is supplied. The private bathroom has a deep soaking bathtub and separate shower with a handheld showerhead, as well as designer toiletries and complimentary toiletries. Climate control, a laptop-compatible safe, and a direct-dial phone with speakerphone capability are conveniently included.  <p><\/p>",
+				"roomAmenities": {
+					"@size": "9",
+					"RoomAmenity": [{
+						"@amenityId": "14744100",
+						"amenity": "Connecting \/ adjoining rooms available "
+					},
+					{
+						"@amenityId": "13390607",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "12233976",
+						"amenity": "Fax machine "
+					},
+					{
+						"@amenityId": "12955183",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "12955198",
+						"amenity": "Free wired high-speed Internet "
+					},
+					{
+						"@amenityId": "12233979",
+						"amenity": "In-room massage available "
+					},
+					{
+						"@amenityId": "12341991",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "11538361",
+						"amenity": "Rollaway\/extra beds available "
+					},
+					{
+						"@amenityId": "12233978",
+						"amenity": "Soundproofed rooms "
+					}]
+				}
+			},
+			"supplierType": "E",
+			"propertyId": 3849185,
+			"BedTypes": {
+				"@size": "1",
+				"BedType": {
+					"@id": "14",
+					"description": "One King Bed"
+				}
+			},
+			"smokingPreferences": "S,NS",
+			"rateOccupancyPerRoom": 2,
+			"quotedOccupancy": 2,
+			"minGuestAge": 0,
+			"RateInfos": {
+				"@size": "1",
+				"RateInfo": {
+					"@rateChange": "false",
+					"@promo": "true",
+					"@priceBreakdown": "true",
+					"RoomGroup": {
+						"Room": [{
+							"numberOfAdults": 1,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 2,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 1,
+							"numberOfChildren": 1,
+							"childAges": 4,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						}]
+					},
+					"ChargeableRateInfo": {
+						"@total": "8856.0",
+						"@surchargeTotal": "1476.0",
+						"@nightlyRateTotal": "7380.0",
+						"@maxNightlyRate": "410.0",
+						"@currencyCode": "GBP",
+						"@commissionableUsdTotal": "11556.54",
+						"@averageRate": "410.0",
+						"@averageBaseRate": "820.0",
+						"NightlyRatesPerRoom": {
+							"@size": "6",
+							"NightlyRate": [{
+								"@promo": "true",
+								"@rate": "410.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "410.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "410.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "410.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "410.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "410.0",
+								"@baseRate": "820.0"
+							}]
+						},
+						"Surcharges": {
+							"@size": "1",
+							"Surcharge": {
+								"@amount": "1476.0",
+								"@type": "TaxAndServiceFee"
+							}
+						}
+					},
+					"cancellationPolicy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Corinthia Hotel London) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London) on Feb 12, 2013 are subject to a 1 Night Room &amp; Tax penalty. The property makes no refunds for no shows or early checkouts.",
+					"CancelPolicyInfoList": {
+						"CancelPolicyInfo": [{
+							"versionId": 207519550,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 0,
+							"nightCount": 1,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						},
+						{
+							"versionId": 207519549,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 24,
+							"nightCount": 0,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						}]
+					},
+					"nonRefundable": false,
+					"rateType": "MerchantStandard",
+					"promoId": 202596417,
+					"promoDescription": "Save 50% on this stay!",
+					"currentAllotment": 0,
+					"guaranteeRequired": false,
+					"depositRequired": true,
+					"taxRate": 1476
+				}
+			},
+			"deepLink": "http:\/\/travel.ian.com\/hotels\/priceCheck.jsp?cid=55505&amp;locale=en_GB&amp;currencyCode=GBP&amp;numberOfRooms=3&amp;room-0-adult-total=1&amp;room-0-child-total=0&amp;room-1-adult-total=2&amp;room-1-child-total=0&amp;room-2-adult-total=1&amp;room-2-child-total=1&amp;room-2-child-0-age=4&amp;rateChange=false&amp;rateDescription=Executive+king+room&amp;rateCode=200464917&amp;roomTypeCodeDescription=Executive+king+room&amp;roomTypeCode=200078058&amp;cityLink=London&amp;countryLink=GB&amp;resType=hotel&amp;propertyID=3849185&amp;hotelID=357188&amp;supplierType=E&amp;propertyType=H&amp;requestKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;rateKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;arrivalMonth=1&amp;arrivalDay=13&amp;arrivalYear=2013&amp;departureMonth=1&amp;departureDay=19&amp;departureYear=2013&amp;nativeNightlyRates=820.0,820.0,820.0,820.0,820.0,820.0&amp;nativeCurrencyCode=GBP&amp;nativeRoomRate=16236.0&amp;displayNightlyRates=820.0,820.0,820.0,820.0,820.0,820.0&amp;displayCurrencyCode=GBP&amp;displayRoomRate=16236.0&amp;chargeableRoomRateTotal=16236.0&amp;chargeableRoomRateTaxes=1476.0&amp;guarantee=C&amp;cancellationPolicy=We+understand+that+sometimes+your+travel+plans+change.+We+do+not+charge+a+change+or+cancel+fee.+However%2C+this+property+%28Corinthia+Hotel+London%29+imposes+the+following+penalty+to+its+customers+that+we+are+required+to+pass+on%3A+Cancellations+or+changes+made+after+6%3A00+PM+%28%28GMT%29+Greenwich+Mean+Time+%3A+Dublin%2C+Edinburgh%2C+Lisbon%2C+London%29+on+Feb+12%2C+2013+are+subject+to+a+1+Night+Room+%26+Tax+penalty.+The+property+makes+no+refunds+for+no+shows+or+early+checkouts.&amp;directConnect=false&amp;rateFrequency=B&amp;rateIsBase=true",
+			"RoomImages": {
+				"@size": "1",
+				"RoomImage": {
+					"url": "http:\/\/media.expedia.com\/hotels\/4000000\/3850000\/3849200\/3849185\/3849185_62_s.jpg"
+				}
+			}
+		},
+		{
+			"rateCode": 200464943,
+			"rateDescription": "Deluxe junior suite",
+			"RoomType": {
+				"@roomCode": "200078074",
+				"@roomTypeId": "686681",
+				"description": "Deluxe junior suite",
+				"descriptionLong": "<strong><ul><li>One King Bed<\/li><\/ul><\/strong>This city or courtyard view room measures 700 square feet (65 square meters). Complimentary wired and wireless Internet access keeps you connected, and the LCD television is offered for your entertainment. Request an in-room massage. A coffee\/tea maker is supplied. The private bathroom has a deep soaking bathtub and separate shower with a handheld showerhead, as well as designer toiletries and complimentary toiletries. Climate control, a laptop-compatible safe, and a direct-dial phone with speakerphone capability are conveniently included.  <p><\/p>",
+				"roomAmenities": {
+					"@size": "9",
+					"RoomAmenity": [{
+						"@amenityId": "14744108",
+						"amenity": "Connecting \/ adjoining rooms available "
+					},
+					{
+						"@amenityId": "13390615",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "12234024",
+						"amenity": "Fax machine "
+					},
+					{
+						"@amenityId": "12955191",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "12955206",
+						"amenity": "Free wired high-speed Internet "
+					},
+					{
+						"@amenityId": "12234027",
+						"amenity": "In-room massage available "
+					},
+					{
+						"@amenityId": "12341999",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "11562137",
+						"amenity": "Rollaway\/extra beds available "
+					},
+					{
+						"@amenityId": "12234026",
+						"amenity": "Soundproofed rooms "
+					}]
+				}
+			},
+			"supplierType": "E",
+			"propertyId": 3849185,
+			"BedTypes": {
+				"@size": "1",
+				"BedType": {
+					"@id": "14",
+					"description": "One King Bed"
+				}
+			},
+			"smokingPreferences": "S,NS",
+			"rateOccupancyPerRoom": 2,
+			"quotedOccupancy": 2,
+			"minGuestAge": 0,
+			"RateInfos": {
+				"@size": "1",
+				"RateInfo": {
+					"@rateChange": "false",
+					"@promo": "true",
+					"@priceBreakdown": "true",
+					"RoomGroup": {
+						"Room": [{
+							"numberOfAdults": 1,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 2,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 1,
+							"numberOfChildren": 1,
+							"childAges": 4,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						}]
+					},
+					"ChargeableRateInfo": {
+						"@total": "12744.0",
+						"@surchargeTotal": "2124.0",
+						"@nightlyRateTotal": "10620.0",
+						"@maxNightlyRate": "590.0",
+						"@currencyCode": "GBP",
+						"@commissionableUsdTotal": "16630.14",
+						"@averageRate": "590.0",
+						"@averageBaseRate": "1180.0",
+						"NightlyRatesPerRoom": {
+							"@size": "6",
+							"NightlyRate": [{
+								"@promo": "true",
+								"@rate": "590.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "590.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "590.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "590.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "590.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "590.0",
+								"@baseRate": "1180.0"
+							}]
+						},
+						"Surcharges": {
+							"@size": "1",
+							"Surcharge": {
+								"@amount": "2124.0",
+								"@type": "TaxAndServiceFee"
+							}
+						}
+					},
+					"cancellationPolicy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Corinthia Hotel London) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London) on Feb 12, 2013 are subject to a 1 Night Room &amp; Tax penalty. The property makes no refunds for no shows or early checkouts.",
+					"CancelPolicyInfoList": {
+						"CancelPolicyInfo": [{
+							"versionId": 207519550,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 0,
+							"nightCount": 1,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						},
+						{
+							"versionId": 207519549,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 24,
+							"nightCount": 0,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						}]
+					},
+					"nonRefundable": false,
+					"rateType": "MerchantStandard",
+					"promoId": 202596417,
+					"promoDescription": "Save 50% on this stay!",
+					"currentAllotment": 0,
+					"guaranteeRequired": false,
+					"depositRequired": true,
+					"taxRate": 2124
+				}
+			},
+			"deepLink": "http:\/\/travel.ian.com\/hotels\/priceCheck.jsp?cid=55505&amp;locale=en_GB&amp;currencyCode=GBP&amp;numberOfRooms=3&amp;room-0-adult-total=1&amp;room-0-child-total=0&amp;room-1-adult-total=2&amp;room-1-child-total=0&amp;room-2-adult-total=1&amp;room-2-child-total=1&amp;room-2-child-0-age=4&amp;rateChange=false&amp;rateDescription=Deluxe+junior+suite&amp;rateCode=200464943&amp;roomTypeCodeDescription=Deluxe+junior+suite&amp;roomTypeCode=200078074&amp;cityLink=London&amp;countryLink=GB&amp;resType=hotel&amp;propertyID=3849185&amp;hotelID=357188&amp;supplierType=E&amp;propertyType=H&amp;requestKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;rateKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;arrivalMonth=1&amp;arrivalDay=13&amp;arrivalYear=2013&amp;departureMonth=1&amp;departureDay=19&amp;departureYear=2013&amp;nativeNightlyRates=1180.0,1180.0,1180.0,1180.0,1180.0,1180.0&amp;nativeCurrencyCode=GBP&amp;nativeRoomRate=23364.0&amp;displayNightlyRates=1180.0,1180.0,1180.0,1180.0,1180.0,1180.0&amp;displayCurrencyCode=GBP&amp;displayRoomRate=23364.0&amp;chargeableRoomRateTotal=23364.0&amp;chargeableRoomRateTaxes=2124.0&amp;guarantee=C&amp;cancellationPolicy=We+understand+that+sometimes+your+travel+plans+change.+We+do+not+charge+a+change+or+cancel+fee.+However%2C+this+property+%28Corinthia+Hotel+London%29+imposes+the+following+penalty+to+its+customers+that+we+are+required+to+pass+on%3A+Cancellations+or+changes+made+after+6%3A00+PM+%28%28GMT%29+Greenwich+Mean+Time+%3A+Dublin%2C+Edinburgh%2C+Lisbon%2C+London%29+on+Feb+12%2C+2013+are+subject+to+a+1+Night+Room+%26+Tax+penalty.+The+property+makes+no+refunds+for+no+shows+or+early+checkouts.&amp;directConnect=false&amp;rateFrequency=B&amp;rateIsBase=true",
+			"RoomImages": {
+				"@size": "1",
+				"RoomImage": {
+					"url": "http:\/\/media.expedia.com\/hotels\/4000000\/3850000\/3849200\/3849185\/3849185_61_s.jpg"
+				}
+			}
+		},
+		{
+			"rateCode": 200653437,
+			"rateDescription": "Executive king room",
+			"RoomType": {
+				"@roomCode": "200078058",
+				"@roomTypeId": "686673",
+				"description": "Executive king room",
+				"descriptionLong": "<strong><ul><li>One King Bed<\/li><\/ul><\/strong>This city or courtyard view room measures 484 square feet (45 square meters). Complimentary wired and wireless Internet access keeps you connected, and the LCD television is offered for your entertainment. Request an in-room massage. A coffee\/tea maker is supplied. The private bathroom has a deep soaking bathtub and separate shower with a handheld showerhead, as well as designer toiletries and complimentary toiletries. Climate control, a laptop-compatible safe, and a direct-dial phone with speakerphone capability are conveniently included.  <p><\/p>",
+				"roomAmenities": {
+					"@size": "9",
+					"RoomAmenity": [{
+						"@amenityId": "14744100",
+						"amenity": "Connecting \/ adjoining rooms available "
+					},
+					{
+						"@amenityId": "13390607",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "12233976",
+						"amenity": "Fax machine "
+					},
+					{
+						"@amenityId": "12955183",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "12955198",
+						"amenity": "Free wired high-speed Internet "
+					},
+					{
+						"@amenityId": "12233979",
+						"amenity": "In-room massage available "
+					},
+					{
+						"@amenityId": "12341991",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "11538361",
+						"amenity": "Rollaway\/extra beds available "
+					},
+					{
+						"@amenityId": "12233978",
+						"amenity": "Soundproofed rooms "
+					}]
+				}
+			},
+			"supplierType": "E",
+			"propertyId": 3849185,
+			"BedTypes": {
+				"@size": "1",
+				"BedType": {
+					"@id": "14",
+					"description": "One King Bed"
+				}
+			},
+			"smokingPreferences": "S,NS",
+			"rateOccupancyPerRoom": 2,
+			"quotedOccupancy": 2,
+			"minGuestAge": 0,
+			"RateInfos": {
+				"@size": "1",
+				"RateInfo": {
+					"@rateChange": "false",
+					"@promo": "false",
+					"@priceBreakdown": "true",
+					"RoomGroup": {
+						"Room": [{
+							"numberOfAdults": 1,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 2,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 1,
+							"numberOfChildren": 1,
+							"childAges": 4,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						}]
+					},
+					"ChargeableRateInfo": {
+						"@total": "17712.0",
+						"@surchargeTotal": "2952.0",
+						"@nightlyRateTotal": "14760.0",
+						"@maxNightlyRate": "820.0",
+						"@currencyCode": "GBP",
+						"@commissionableUsdTotal": "23113.05",
+						"@averageRate": "820.0",
+						"@averageBaseRate": "820.0",
+						"NightlyRatesPerRoom": {
+							"@size": "6",
+							"NightlyRate": [{
+								"@promo": "false",
+								"@rate": "820.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "820.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "820.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "820.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "820.0",
+								"@baseRate": "820.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "820.0",
+								"@baseRate": "820.0"
+							}]
+						},
+						"Surcharges": {
+							"@size": "1",
+							"Surcharge": {
+								"@amount": "2952.0",
+								"@type": "TaxAndServiceFee"
+							}
+						}
+					},
+					"cancellationPolicy": "This rate is non-refundable and cannot be changed or cancelled - if you do choose to change or cancel this booking you will not be refunded any of the payment.",
+					"CancelPolicyInfoList": {
+						"CancelPolicyInfo": [{
+							"versionId": 207179021,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 0,
+							"nightCount": 0,
+							"percent": 100,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						},
+						{
+							"versionId": 207179020,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 999,
+							"nightCount": 0,
+							"percent": 100,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						}]
+					},
+					"nonRefundable": true,
+					"rateType": "MerchantStandard",
+					"currentAllotment": 0,
+					"guaranteeRequired": false,
+					"depositRequired": true,
+					"taxRate": 2952
+				}
+			},
+			"ValueAdds": {
+				"@size": "1",
+				"ValueAdd": {
+					"@id": "2048",
+					"description": "Free Wireless Internet"
+				}
+			},
+			"deepLink": "http:\/\/travel.ian.com\/hotels\/priceCheck.jsp?cid=55505&amp;locale=en_GB&amp;currencyCode=GBP&amp;numberOfRooms=3&amp;room-0-adult-total=1&amp;room-0-child-total=0&amp;room-1-adult-total=2&amp;room-1-child-total=0&amp;room-2-adult-total=1&amp;room-2-child-total=1&amp;room-2-child-0-age=4&amp;rateChange=false&amp;rateDescription=Executive+king+room&amp;rateCode=200653437&amp;roomTypeCodeDescription=Executive+king+room&amp;roomTypeCode=200078058&amp;cityLink=London&amp;countryLink=GB&amp;resType=hotel&amp;propertyID=3849185&amp;hotelID=357188&amp;supplierType=E&amp;propertyType=H&amp;requestKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;rateKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;arrivalMonth=1&amp;arrivalDay=13&amp;arrivalYear=2013&amp;departureMonth=1&amp;departureDay=19&amp;departureYear=2013&amp;nativeNightlyRates=820.0,820.0,820.0,820.0,820.0,820.0&amp;nativeCurrencyCode=GBP&amp;nativeRoomRate=17712.0&amp;displayNightlyRates=820.0,820.0,820.0,820.0,820.0,820.0&amp;displayCurrencyCode=GBP&amp;displayRoomRate=17712.0&amp;chargeableRoomRateTotal=17712.0&amp;chargeableRoomRateTaxes=2952.0&amp;guarantee=C&amp;cancellationPolicy=This+rate+is+non-refundable+and+cannot+be+changed+or+cancelled+-+if+you+do+choose+to+change+or+cancel+this+booking+you+will+not+be+refunded+any+of+the+payment.&amp;directConnect=false&amp;rateFrequency=B&amp;rateIsBase=true",
+			"RoomImages": {
+				"@size": "1",
+				"RoomImage": {
+					"url": "http:\/\/media.expedia.com\/hotels\/4000000\/3850000\/3849200\/3849185\/3849185_62_s.jpg"
+				}
+			}
+		},
+		{
+			"rateCode": 200464938,
+			"rateDescription": "Whitehall suite",
+			"RoomType": {
+				"@roomCode": "200078071",
+				"@roomTypeId": "686679",
+				"description": "Whitehall suite",
+				"descriptionLong": "<strong><ul><li>One Queen Bed<\/li><\/ul><\/strong>This city or courtyard view room measures 915 square feet (85 square meters). Complimentary wired and wireless Internet access keeps you connected, and the LCD television is offered for your entertainment. Request an in-room massage. A coffee\/tea maker is supplied. The private bathroom has a deep soaking bathtub and separate shower with a handheld showerhead, as well as designer toiletries and complimentary toiletries. Climate control, a laptop-compatible safe, and a direct-dial phone with speakerphone capability are conveniently included.  <p><\/p>",
+				"roomAmenities": {
+					"@size": "9",
+					"RoomAmenity": [{
+						"@amenityId": "14744106",
+						"amenity": "Connecting \/ adjoining rooms available "
+					},
+					{
+						"@amenityId": "13390613",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "12234012",
+						"amenity": "Fax machine "
+					},
+					{
+						"@amenityId": "12955189",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "12955204",
+						"amenity": "Free wired high-speed Internet "
+					},
+					{
+						"@amenityId": "12234015",
+						"amenity": "In-room massage available "
+					},
+					{
+						"@amenityId": "12341997",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "11557284",
+						"amenity": "Rollaway\/extra beds available "
+					},
+					{
+						"@amenityId": "12234014",
+						"amenity": "Soundproofed rooms "
+					}]
+				}
+			},
+			"supplierType": "E",
+			"propertyId": 3849185,
+			"BedTypes": {
+				"@size": "1",
+				"BedType": {
+					"@id": "15",
+					"description": "One Queen Bed"
+				}
+			},
+			"smokingPreferences": "S,NS",
+			"rateOccupancyPerRoom": 3,
+			"quotedOccupancy": 2,
+			"minGuestAge": 0,
+			"RateInfos": {
+				"@size": "1",
+				"RateInfo": {
+					"@rateChange": "false",
+					"@promo": "true",
+					"@priceBreakdown": "true",
+					"RoomGroup": {
+						"Room": [{
+							"numberOfAdults": 1,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 2,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 1,
+							"numberOfChildren": 1,
+							"childAges": 4,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						}]
+					},
+					"ChargeableRateInfo": {
+						"@total": "23760.0",
+						"@surchargeTotal": "3960.0",
+						"@nightlyRateTotal": "19800.0",
+						"@maxNightlyRate": "1100.0",
+						"@currencyCode": "GBP",
+						"@commissionableUsdTotal": "31005.332",
+						"@averageRate": "1100.0",
+						"@averageBaseRate": "2200.0",
+						"NightlyRatesPerRoom": {
+							"@size": "6",
+							"NightlyRate": [{
+								"@promo": "true",
+								"@rate": "1100.0",
+								"@baseRate": "2200.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1100.0",
+								"@baseRate": "2200.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1100.0",
+								"@baseRate": "2200.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1100.0",
+								"@baseRate": "2200.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1100.0",
+								"@baseRate": "2200.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1100.0",
+								"@baseRate": "2200.0"
+							}]
+						},
+						"Surcharges": {
+							"@size": "1",
+							"Surcharge": {
+								"@amount": "3960.0",
+								"@type": "TaxAndServiceFee"
+							}
+						}
+					},
+					"cancellationPolicy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Corinthia Hotel London) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London) on Feb 12, 2013 are subject to a 1 Night Room &amp; Tax penalty. The property makes no refunds for no shows or early checkouts.",
+					"CancelPolicyInfoList": {
+						"CancelPolicyInfo": [{
+							"versionId": 207519550,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 0,
+							"nightCount": 1,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						},
+						{
+							"versionId": 207519549,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 24,
+							"nightCount": 0,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						}]
+					},
+					"nonRefundable": false,
+					"rateType": "MerchantStandard",
+					"promoId": 202596417,
+					"promoDescription": "Save 50% on this stay!",
+					"currentAllotment": 0,
+					"guaranteeRequired": false,
+					"depositRequired": true,
+					"taxRate": 3960
+				}
+			},
+			"deepLink": "http:\/\/travel.ian.com\/hotels\/priceCheck.jsp?cid=55505&amp;locale=en_GB&amp;currencyCode=GBP&amp;numberOfRooms=3&amp;room-0-adult-total=1&amp;room-0-child-total=0&amp;room-1-adult-total=2&amp;room-1-child-total=0&amp;room-2-adult-total=1&amp;room-2-child-total=1&amp;room-2-child-0-age=4&amp;rateChange=false&amp;rateDescription=Whitehall+suite&amp;rateCode=200464938&amp;roomTypeCodeDescription=Whitehall+suite&amp;roomTypeCode=200078071&amp;cityLink=London&amp;countryLink=GB&amp;resType=hotel&amp;propertyID=3849185&amp;hotelID=357188&amp;supplierType=E&amp;propertyType=H&amp;requestKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;rateKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;arrivalMonth=1&amp;arrivalDay=13&amp;arrivalYear=2013&amp;departureMonth=1&amp;departureDay=19&amp;departureYear=2013&amp;nativeNightlyRates=2200.0,2200.0,2200.0,2200.0,2200.0,2200.0&amp;nativeCurrencyCode=GBP&amp;nativeRoomRate=43560.0&amp;displayNightlyRates=2200.0,2200.0,2200.0,2200.0,2200.0,2200.0&amp;displayCurrencyCode=GBP&amp;displayRoomRate=43560.0&amp;chargeableRoomRateTotal=43560.0&amp;chargeableRoomRateTaxes=3960.0&amp;guarantee=C&amp;cancellationPolicy=We+understand+that+sometimes+your+travel+plans+change.+We+do+not+charge+a+change+or+cancel+fee.+However%2C+this+property+%28Corinthia+Hotel+London%29+imposes+the+following+penalty+to+its+customers+that+we+are+required+to+pass+on%3A+Cancellations+or+changes+made+after+6%3A00+PM+%28%28GMT%29+Greenwich+Mean+Time+%3A+Dublin%2C+Edinburgh%2C+Lisbon%2C+London%29+on+Feb+12%2C+2013+are+subject+to+a+1+Night+Room+%26+Tax+penalty.+The+property+makes+no+refunds+for+no+shows+or+early+checkouts.&amp;directConnect=false&amp;rateFrequency=B&amp;rateIsBase=true",
+			"RoomImages": {
+				"@size": "1",
+				"RoomImage": {
+					"url": "http:\/\/media.expedia.com\/hotels\/4000000\/3850000\/3849200\/3849185\/3849185_56_s.jpg"
+				}
+			}
+		},
+		{
+			"rateCode": 200653434,
+			"rateDescription": "Deluxe junior suite",
+			"RoomType": {
+				"@roomCode": "200078074",
+				"@roomTypeId": "686681",
+				"description": "Deluxe junior suite",
+				"descriptionLong": "<strong><ul><li>One King Bed<\/li><\/ul><\/strong>This city or courtyard view room measures 700 square feet (65 square meters). Complimentary wired and wireless Internet access keeps you connected, and the LCD television is offered for your entertainment. Request an in-room massage. A coffee\/tea maker is supplied. The private bathroom has a deep soaking bathtub and separate shower with a handheld showerhead, as well as designer toiletries and complimentary toiletries. Climate control, a laptop-compatible safe, and a direct-dial phone with speakerphone capability are conveniently included.  <p><\/p>",
+				"roomAmenities": {
+					"@size": "9",
+					"RoomAmenity": [{
+						"@amenityId": "14744108",
+						"amenity": "Connecting \/ adjoining rooms available "
+					},
+					{
+						"@amenityId": "13390615",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "12234024",
+						"amenity": "Fax machine "
+					},
+					{
+						"@amenityId": "12955191",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "12955206",
+						"amenity": "Free wired high-speed Internet "
+					},
+					{
+						"@amenityId": "12234027",
+						"amenity": "In-room massage available "
+					},
+					{
+						"@amenityId": "12341999",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "11562137",
+						"amenity": "Rollaway\/extra beds available "
+					},
+					{
+						"@amenityId": "12234026",
+						"amenity": "Soundproofed rooms "
+					}]
+				}
+			},
+			"supplierType": "E",
+			"propertyId": 3849185,
+			"BedTypes": {
+				"@size": "1",
+				"BedType": {
+					"@id": "14",
+					"description": "One King Bed"
+				}
+			},
+			"smokingPreferences": "S,NS",
+			"rateOccupancyPerRoom": 2,
+			"quotedOccupancy": 2,
+			"minGuestAge": 0,
+			"RateInfos": {
+				"@size": "1",
+				"RateInfo": {
+					"@rateChange": "false",
+					"@promo": "false",
+					"@priceBreakdown": "true",
+					"RoomGroup": {
+						"Room": [{
+							"numberOfAdults": 1,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 2,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 1,
+							"numberOfChildren": 1,
+							"childAges": 4,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						}]
+					},
+					"ChargeableRateInfo": {
+						"@total": "25488.0",
+						"@surchargeTotal": "4248.0",
+						"@nightlyRateTotal": "21240.0",
+						"@maxNightlyRate": "1180.0",
+						"@currencyCode": "GBP",
+						"@commissionableUsdTotal": "33260.25",
+						"@averageRate": "1180.0",
+						"@averageBaseRate": "1180.0",
+						"NightlyRatesPerRoom": {
+							"@size": "6",
+							"NightlyRate": [{
+								"@promo": "false",
+								"@rate": "1180.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "1180.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "1180.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "1180.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "1180.0",
+								"@baseRate": "1180.0"
+							},
+							{
+								"@promo": "false",
+								"@rate": "1180.0",
+								"@baseRate": "1180.0"
+							}]
+						},
+						"Surcharges": {
+							"@size": "1",
+							"Surcharge": {
+								"@amount": "4248.0",
+								"@type": "TaxAndServiceFee"
+							}
+						}
+					},
+					"cancellationPolicy": "This rate is non-refundable and cannot be changed or cancelled - if you do choose to change or cancel this booking you will not be refunded any of the payment.",
+					"CancelPolicyInfoList": {
+						"CancelPolicyInfo": [{
+							"versionId": 207179021,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 0,
+							"nightCount": 0,
+							"percent": 100,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						},
+						{
+							"versionId": 207179020,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 999,
+							"nightCount": 0,
+							"percent": 100,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						}]
+					},
+					"nonRefundable": true,
+					"rateType": "MerchantStandard",
+					"currentAllotment": 0,
+					"guaranteeRequired": false,
+					"depositRequired": true,
+					"taxRate": 4248
+				}
+			},
+			"ValueAdds": {
+				"@size": "1",
+				"ValueAdd": {
+					"@id": "2048",
+					"description": "Free Wireless Internet"
+				}
+			},
+			"deepLink": "http:\/\/travel.ian.com\/hotels\/priceCheck.jsp?cid=55505&amp;locale=en_GB&amp;currencyCode=GBP&amp;numberOfRooms=3&amp;room-0-adult-total=1&amp;room-0-child-total=0&amp;room-1-adult-total=2&amp;room-1-child-total=0&amp;room-2-adult-total=1&amp;room-2-child-total=1&amp;room-2-child-0-age=4&amp;rateChange=false&amp;rateDescription=Deluxe+junior+suite&amp;rateCode=200653434&amp;roomTypeCodeDescription=Deluxe+junior+suite&amp;roomTypeCode=200078074&amp;cityLink=London&amp;countryLink=GB&amp;resType=hotel&amp;propertyID=3849185&amp;hotelID=357188&amp;supplierType=E&amp;propertyType=H&amp;requestKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;rateKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;arrivalMonth=1&amp;arrivalDay=13&amp;arrivalYear=2013&amp;departureMonth=1&amp;departureDay=19&amp;departureYear=2013&amp;nativeNightlyRates=1180.0,1180.0,1180.0,1180.0,1180.0,1180.0&amp;nativeCurrencyCode=GBP&amp;nativeRoomRate=25488.0&amp;displayNightlyRates=1180.0,1180.0,1180.0,1180.0,1180.0,1180.0&amp;displayCurrencyCode=GBP&amp;displayRoomRate=25488.0&amp;chargeableRoomRateTotal=25488.0&amp;chargeableRoomRateTaxes=4248.0&amp;guarantee=C&amp;cancellationPolicy=This+rate+is+non-refundable+and+cannot+be+changed+or+cancelled+-+if+you+do+choose+to+change+or+cancel+this+booking+you+will+not+be+refunded+any+of+the+payment.&amp;directConnect=false&amp;rateFrequency=B&amp;rateIsBase=true",
+			"RoomImages": {
+				"@size": "1",
+				"RoomImage": {
+					"url": "http:\/\/media.expedia.com\/hotels\/4000000\/3850000\/3849200\/3849185\/3849185_61_s.jpg"
+				}
+			}
+		},
+		{
+			"rateCode": 200464940,
+			"rateDescription": "Trafalgar suite",
+			"RoomType": {
+				"@roomCode": "200078072",
+				"@roomTypeId": "686680",
+				"description": "Trafalgar suite",
+				"descriptionLong": "<strong><ul><li>One Queen Bed<\/li><\/ul><\/strong>This city or courtyard view room measures 904 square feet (84 square meters). Complimentary wired and wireless Internet access keeps you connected, and the LCD television is offered for your entertainment. Request an in-room massage. A coffee\/tea maker is supplied. The private bathroom has a deep soaking bathtub and separate shower with a handheld showerhead, as well as designer toiletries and complimentary toiletries. Climate control, a laptop-compatible safe, and a direct-dial phone with speakerphone capability are conveniently included.  <p><\/p>",
+				"roomAmenities": {
+					"@size": "9",
+					"RoomAmenity": [{
+						"@amenityId": "14744107",
+						"amenity": "Connecting \/ adjoining rooms available "
+					},
+					{
+						"@amenityId": "13390614",
+						"amenity": "Cribs\/infant beds available "
+					},
+					{
+						"@amenityId": "12234018",
+						"amenity": "Fax machine "
+					},
+					{
+						"@amenityId": "12955190",
+						"amenity": "Free Wi-Fi "
+					},
+					{
+						"@amenityId": "12955205",
+						"amenity": "Free wired high-speed Internet "
+					},
+					{
+						"@amenityId": "12234021",
+						"amenity": "In-room massage available "
+					},
+					{
+						"@amenityId": "12341998",
+						"amenity": "In-room safe (laptop compatible) "
+					},
+					{
+						"@amenityId": "11538511",
+						"amenity": "Rollaway\/extra beds available "
+					},
+					{
+						"@amenityId": "12234020",
+						"amenity": "Soundproofed rooms "
+					}]
+				}
+			},
+			"supplierType": "E",
+			"propertyId": 3849185,
+			"BedTypes": {
+				"@size": "1",
+				"BedType": {
+					"@id": "15",
+					"description": "One Queen Bed"
+				}
+			},
+			"smokingPreferences": "S,NS",
+			"rateOccupancyPerRoom": 3,
+			"quotedOccupancy": 2,
+			"minGuestAge": 0,
+			"RateInfos": {
+				"@size": "1",
+				"RateInfo": {
+					"@rateChange": "false",
+					"@promo": "true",
+					"@priceBreakdown": "true",
+					"RoomGroup": {
+						"Room": [{
+							"numberOfAdults": 1,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 2,
+							"numberOfChildren": 0,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						},
+						{
+							"numberOfAdults": 1,
+							"numberOfChildren": 1,
+							"childAges": 4,
+							"rateKey": "06d81821-fdaa-4237-b147-70eeb3a2fbab"
+						}]
+					},
+					"ChargeableRateInfo": {
+						"@total": "38070.0",
+						"@surchargeTotal": "6345.0",
+						"@nightlyRateTotal": "31725.0",
+						"@maxNightlyRate": "1762.5",
+						"@currencyCode": "GBP",
+						"@commissionableUsdTotal": "49678.98",
+						"@averageRate": "1762.5",
+						"@averageBaseRate": "3525.0",
+						"NightlyRatesPerRoom": {
+							"@size": "6",
+							"NightlyRate": [{
+								"@promo": "true",
+								"@rate": "1762.5",
+								"@baseRate": "3525.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1762.5",
+								"@baseRate": "3525.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1762.5",
+								"@baseRate": "3525.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1762.5",
+								"@baseRate": "3525.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1762.5",
+								"@baseRate": "3525.0"
+							},
+							{
+								"@promo": "true",
+								"@rate": "1762.5",
+								"@baseRate": "3525.0"
+							}]
+						},
+						"Surcharges": {
+							"@size": "1",
+							"Surcharge": {
+								"@amount": "6345.0",
+								"@type": "TaxAndServiceFee"
+							}
+						}
+					},
+					"cancellationPolicy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Corinthia Hotel London) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London) on Feb 12, 2013 are subject to a 1 Night Room &amp; Tax penalty. The property makes no refunds for no shows or early checkouts.",
+					"CancelPolicyInfoList": {
+						"CancelPolicyInfo": [{
+							"versionId": 207519550,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 0,
+							"nightCount": 1,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						},
+						{
+							"versionId": 207519549,
+							"cancelTime": "18:00:00",
+							"startWindowHours": 24,
+							"nightCount": 0,
+							"currencyCode": "GBP",
+							"timeZoneDescription": "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+						}]
+					},
+					"nonRefundable": false,
+					"rateType": "MerchantStandard",
+					"promoId": 202596417,
+					"promoDescription": "Save 50% on this stay!",
+					"currentAllotment": 0,
+					"guaranteeRequired": false,
+					"depositRequired": true,
+					"taxRate": 6345
+				}
+			},
+			"deepLink": "http:\/\/travel.ian.com\/hotels\/priceCheck.jsp?cid=55505&amp;locale=en_GB&amp;currencyCode=GBP&amp;numberOfRooms=3&amp;room-0-adult-total=1&amp;room-0-child-total=0&amp;room-1-adult-total=2&amp;room-1-child-total=0&amp;room-2-adult-total=1&amp;room-2-child-total=1&amp;room-2-child-0-age=4&amp;rateChange=false&amp;rateDescription=Trafalgar+suite&amp;rateCode=200464940&amp;roomTypeCodeDescription=Trafalgar+suite&amp;roomTypeCode=200078072&amp;cityLink=London&amp;countryLink=GB&amp;resType=hotel&amp;propertyID=3849185&amp;hotelID=357188&amp;supplierType=E&amp;propertyType=H&amp;requestKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;rateKey=06d81821-fdaa-4237-b147-70eeb3a2fbab&amp;arrivalMonth=1&amp;arrivalDay=13&amp;arrivalYear=2013&amp;departureMonth=1&amp;departureDay=19&amp;departureYear=2013&amp;nativeNightlyRates=3525.0,3525.0,3525.0,3525.0,3525.0,3525.0&amp;nativeCurrencyCode=GBP&amp;nativeRoomRate=69795.0&amp;displayNightlyRates=3525.0,3525.0,3525.0,3525.0,3525.0,3525.0&amp;displayCurrencyCode=GBP&amp;displayRoomRate=69795.0&amp;chargeableRoomRateTotal=69795.0&amp;chargeableRoomRateTaxes=6345.0&amp;guarantee=C&amp;cancellationPolicy=We+understand+that+sometimes+your+travel+plans+change.+We+do+not+charge+a+change+or+cancel+fee.+However%2C+this+property+%28Corinthia+Hotel+London%29+imposes+the+following+penalty+to+its+customers+that+we+are+required+to+pass+on%3A+Cancellations+or+changes+made+after+6%3A00+PM+%28%28GMT%29+Greenwich+Mean+Time+%3A+Dublin%2C+Edinburgh%2C+Lisbon%2C+London%29+on+Feb+12%2C+2013+are+subject+to+a+1+Night+Room+%26+Tax+penalty.+The+property+makes+no+refunds+for+no+shows+or+early+checkouts.&amp;directConnect=false&amp;rateFrequency=B&amp;rateIsBase=true",
+			"RoomImages": {
+				"@size": "1",
+				"RoomImage": {
+					"url": "http:\/\/media.expedia.com\/hotels\/4000000\/3850000\/3849200\/3849185\/3849185_71_s.jpg"
+				}
+			}
+		}]
+	}
+}
