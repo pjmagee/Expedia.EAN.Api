@@ -1,2 +1,2 @@
 # EAN
-An Expedia Affiliate Network Hotels API Wrapper
+.NET Expedia Affiliate Network Hotels API Wrapper
