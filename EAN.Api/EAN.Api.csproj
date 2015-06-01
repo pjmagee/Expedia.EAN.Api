@@ -65,6 +65,7 @@
     <Compile Include="Messages\HotelImage.cs" />
     <Compile Include="Messages\HotelImages.cs" />
     <Compile Include="Messages\HotelList.cs" />
+    <Compile Include="Messages\HotelListOption.cs" />
     <Compile Include="Messages\HotelSummary.cs" />
     <Compile Include="Messages\LocationInfo.cs" />
     <Compile Include="Messages\LocationInfos.cs" />
@@ -102,6 +103,7 @@
     <Compile Include="Messages\RoomType.cs" />
     <Compile Include="Messages\RoomTypes.cs" />
     <Compile Include="Messages\ServerInfo.cs" />
+    <Compile Include="Messages\SortOption.cs" />
     <Compile Include="Messages\Supplier.cs" />
     <Compile Include="Messages\Suppliers.cs" />
     <Compile Include="Messages\SupplierType.cs" />
