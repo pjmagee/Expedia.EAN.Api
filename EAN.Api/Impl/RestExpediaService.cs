@@ -283,8 +283,8 @@
             if (roomAvailabilityRequest.NumberOfBedrooms.HasValue)
                 request.AddParameter("numberOfBedrooms", roomAvailabilityRequest.NumberOfBedrooms.Value);
 
-            if (!String.IsNullOrWhiteSpace(roomAvailabilityRequest.SupplierType))
-                request.AddParameter("supplierType", roomAvailabilityRequest.SupplierType);
+            if (roomAvailabilityRequest.SupplierType.HasValue)
+                request.AddParameter("supplierType", roomAvailabilityRequest.SupplierType.Value.ToString());
 
             if (!String.IsNullOrWhiteSpace(roomAvailabilityRequest.RateKey))
                 request.AddParameter("rateKey", roomAvailabilityRequest.RateKey);

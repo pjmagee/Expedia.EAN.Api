@@ -101,7 +101,6 @@
                     Assert.True(room.SupplierType == SupplierType.E);
                     Assert.NotNull(room);
                     Assert.NotNull(room.DeepLink);
-                    Assert.NotNull(room.MaxRoomOccupancy);
                     Assert.NotNull(room.PropertyId);
                     Assert.NotNull(room.QuotedOccupancy);
 

@@ -62,6 +62,9 @@
     <Compile Include="Messages\ConvertedRateInfo.cs" />
     <Compile Include="Messages\EanWsError.cs" />
     <Compile Include="Messages\HotelDetails.cs" />
+    <Compile Include="Messages\HotelFee.cs" />
+    <Compile Include="Messages\HotelFeeBreakdown.cs" />
+    <Compile Include="Messages\HotelFees.cs" />
     <Compile Include="Messages\HotelImage.cs" />
     <Compile Include="Messages\HotelImages.cs" />
     <Compile Include="Messages\HotelList.cs" />

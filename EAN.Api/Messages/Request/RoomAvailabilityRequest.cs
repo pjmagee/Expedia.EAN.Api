@@ -37,9 +37,8 @@
 
         /// <summary>
         /// Supply the same value returned in the previous hotel list response.
-        /// Values: "E" (Expedia Collect)
         /// </summary>
-        public string SupplierType { get; set; }
+        public SupplierType? SupplierType { get; set; }
 
         /// <summary>
         /// Key for the parameters that determined the rate provided in the prior hotel list response.
