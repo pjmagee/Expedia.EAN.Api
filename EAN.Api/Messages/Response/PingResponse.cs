@@ -1,7 +1,6 @@
 ﻿namespace EAN.Api.Messages.Response
 {
-    public class PingResponse
+    public class PingResponse : CommonResponse
     {
-        public EanWsError EanWsError { get; set; }
     }
 }

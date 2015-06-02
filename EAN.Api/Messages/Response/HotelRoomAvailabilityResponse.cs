@@ -3,11 +3,8 @@
     using System;
     using System.Collections.Generic;
 
-    public class HotelRoomAvailabilityResponse
+    public class HotelRoomAvailabilityResponse : CommonResponse
     {
-        public EanWsError EanWsError { get; set; }
-        public string CustomerSessionId { get; set; }
-
         public long HotelId { get; set; }
         public DateTime ArrivalDate { get; set; }
         public DateTime DepartureDate { get; set; }

@@ -85,6 +85,7 @@
     <Compile Include="Messages\Request\LocationInfoRequest.cs" />
     <Compile Include="Messages\Request\PingRequest.cs" />
     <Compile Include="Messages\Response\CachedSupplierResponse.cs" />
+    <Compile Include="Messages\Response\CommonResponse.cs" />
     <Compile Include="Messages\Response\HotelInformationResponse.cs" />
     <Compile Include="Messages\Response\HotelListResponse.cs" />
     <Compile Include="Messages\Response\HotelRoomAvailabilityResponse.cs" />

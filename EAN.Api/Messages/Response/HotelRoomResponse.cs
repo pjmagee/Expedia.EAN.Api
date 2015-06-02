@@ -6,10 +6,8 @@ namespace EAN.Api.Messages.Response
     /// 
     /// Well I don't use Apache Axis, so i guess im lucky :)
     /// </summary>
-    public class HotelRoomResponse
+    public class HotelRoomResponse : CommonResponse
     {
-        public EanWsError EanWsError { get; set; }
-
         public long RateCode { get; set; }
         public string RateDescription { get; set; }
         public RoomType RoomType { get; set; }

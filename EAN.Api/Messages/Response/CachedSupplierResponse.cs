@@ -1,8 +1,7 @@
 ﻿namespace EAN.Api.Messages.Response
 {
-    public class CachedSupplierResponse
+    public class CachedSupplierResponse : CommonResponse
     {
-        public EanWsError EanWsError { get; set; }
         public string MatchedLocale { get; set; }
         public string MatchedCurrency { get; set; }
         public string TpidUsed { get; set; }

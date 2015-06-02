@@ -1,9 +1,7 @@
 namespace EAN.Api.Messages.Response
 {
-    public class LocationInfoResponse
+    public class LocationInfoResponse : CommonResponse
     {
-        public EanWsError EanWsError { get; set; }
-        public string CustomerSessionId { get; set; }
         public LocationInfos LocationInfos { get; set; }
     }
 }
