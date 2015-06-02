@@ -253,7 +253,7 @@
          * &options=HOTEL_DETAILS 
          */
 
-        public override HotelRoomAvailabilityResponse GetHotelRoomAvailability(HotelRoomAvailabilityRequest roomAvailabilityRequest)
+        public override RoomAvailabilityResponse GetRoomAvailability(RoomAvailabilityRequest roomAvailabilityRequest)
         {
             Require.Argument("roomAvailabilityRequest", roomAvailabilityRequest);
 
@@ -262,12 +262,10 @@
             request.Method = Method.GET;
 
             request.RootElement = "HotelRoomAvailabilityResponse";
-            request.AddParameter("options", "ROOM_TYPES,ROOM_AMENITIES");
+            //required parameters
             request.AddParameter("hotelId", roomAvailabilityRequest.HotelId);
             request.AddParameter("arrivalDate", roomAvailabilityRequest.ArrivalDate.ToShortDateString());
             request.AddParameter("departureDate", roomAvailabilityRequest.DepartureDate.ToShortDateString());
-            request.AddParameter("includeDetails", "true");
-            request.AddParameter("includeRoomImages", "true");
 
             if (roomAvailabilityRequest.RoomGroup != null)
             {
@@ -281,7 +279,30 @@
                 }
             }
 
-            return Execute<HotelRoomAvailabilityResponse>(request);
+            //optional parameters
+            if (roomAvailabilityRequest.NumberOfBedrooms.HasValue)
+                request.AddParameter("numberOfBedrooms", roomAvailabilityRequest.NumberOfBedrooms.Value);
+
+            if (!String.IsNullOrWhiteSpace(roomAvailabilityRequest.SupplierType))
+                request.AddParameter("supplierType", roomAvailabilityRequest.SupplierType);
+
+            if (!String.IsNullOrWhiteSpace(roomAvailabilityRequest.RateKey))
+                request.AddParameter("rateKey", roomAvailabilityRequest.RateKey);
+
+            if (!String.IsNullOrWhiteSpace(roomAvailabilityRequest.RoomTypeCode))
+                request.AddParameter("roomTypeCode", roomAvailabilityRequest.RoomTypeCode);
+
+            if (!String.IsNullOrWhiteSpace(roomAvailabilityRequest.RateCode))
+                request.AddParameter("rateCode", roomAvailabilityRequest.RateCode);
+
+            request.AddParameter("includeDetails", roomAvailabilityRequest.IncludeDetails);
+            request.AddParameter("includeRoomImages", roomAvailabilityRequest.IncludeRoomImages);
+            request.AddParameter("includeHotelFeeBreakdown", roomAvailabilityRequest.IncludeHotelFeeBreakdown);
+
+            if (roomAvailabilityRequest.Options.Any())
+                request.AddParameter("options", String.Join(",", roomAvailabilityRequest.Options));
+
+            return Execute<RoomAvailabilityResponse>(request);
         }
 
         public override LocationInfoResponse GetGeoSearch(LocationInfoRequest locationInfoRequest)

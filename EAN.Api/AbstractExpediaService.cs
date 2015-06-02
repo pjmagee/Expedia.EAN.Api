@@ -104,7 +104,7 @@
         public abstract HotelListResponse GetHotelAvailabilityList(HotelListRequest hotelListRequest);
         public abstract HotelListResponse GetHotelActiveList(HotelListRequest hotelListRequest);
         public abstract HotelInformationResponse GetHotelInformation(HotelInformationRequest hotelInformationRequest);
-        public abstract HotelRoomAvailabilityResponse GetHotelRoomAvailability(HotelRoomAvailabilityRequest roomAvailabilityRequest);
+        public abstract RoomAvailabilityResponse GetRoomAvailability(RoomAvailabilityRequest roomAvailabilityRequest);
         public abstract LocationInfoResponse GetGeoSearch(LocationInfoRequest locationInfoRequest);
         public abstract HotelRoomCancellationResponse GetHotelRoomCancel(HotelRoomCancellationRequest hotelRoomCancellationRequest);
         public abstract PingResponse GetPing(PingRequest pingRequest);

@@ -3,7 +3,7 @@
     using System;
     using System.Collections.Generic;
 
-    public class HotelRoomAvailabilityResponse : CommonResponse
+    public class RoomAvailabilityResponse : CommonResponse
     {
         public long HotelId { get; set; }
         public DateTime ArrivalDate { get; set; }

@@ -86,12 +86,12 @@
             return hotelInformationResponse;
         }
 
-        public override HotelRoomAvailabilityResponse GetHotelRoomAvailability(HotelRoomAvailabilityRequest roomAvailabilityRequest)
+        public override RoomAvailabilityResponse GetRoomAvailability(RoomAvailabilityRequest roomAvailabilityRequest)
         {
             string path = PathFor("HotelRoomAvailabilityResponse.json");
             string content = Regex.Replace(File.ReadAllText(path), "");
             JsonDeserializer jsonDeserializer = new JsonDeserializer() { RootElement = "HotelRoomAvailabilityResponse" };
-            HotelRoomAvailabilityResponse hotelRoomAvailabilityResponse = jsonDeserializer.Deserialize<HotelRoomAvailabilityResponse>(new RestResponse() {Content = content});
+            RoomAvailabilityResponse hotelRoomAvailabilityResponse = jsonDeserializer.Deserialize<RoomAvailabilityResponse>(new RestResponse() {Content = content});
             return hotelRoomAvailabilityResponse;
         }
 

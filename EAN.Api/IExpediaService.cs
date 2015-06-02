@@ -33,7 +33,7 @@
         
         HotelInformationResponse GetHotelInformation(HotelInformationRequest hotelInformationRequest);
 
-        HotelRoomAvailabilityResponse GetHotelRoomAvailability(HotelRoomAvailabilityRequest roomAvailabilityRequest);
+        RoomAvailabilityResponse GetRoomAvailability(RoomAvailabilityRequest roomAvailabilityRequest);
 
         LocationInfoResponse GetGeoSearch(LocationInfoRequest locationInfoRequest);
         

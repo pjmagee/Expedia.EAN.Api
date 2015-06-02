@@ -85,7 +85,7 @@
             
             // Act
             JsonDeserializer jsonDeserializer = new JsonDeserializer() {RootElement = "HotelRoomAvailabilityResponse"};
-            HotelRoomAvailabilityResponse output = jsonDeserializer.Deserialize<HotelRoomAvailabilityResponse>(new RestResponse() { Content = Regex.Replace(doc, "") });
+            RoomAvailabilityResponse output = jsonDeserializer.Deserialize<RoomAvailabilityResponse>(new RestResponse() { Content = Regex.Replace(doc, "") });
 
             // Assert
             Assert.NotNull(output.CustomerSessionId);

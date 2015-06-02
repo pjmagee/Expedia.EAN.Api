@@ -80,7 +80,7 @@
     <Compile Include="Messages\Request\CancelPolicyInfoRequest.cs" />
     <Compile Include="Messages\Request\HotelInformationRequest.cs" />
     <Compile Include="Messages\Request\HotelListRequest.cs" />
-    <Compile Include="Messages\Request\HotelRoomAvailabilityRequest.cs" />
+    <Compile Include="Messages\Request\RoomAvailabilityRequest.cs" />
     <Compile Include="Messages\Request\HotelRoomCancellationRequest.cs" />
     <Compile Include="Messages\Request\LocationInfoRequest.cs" />
     <Compile Include="Messages\Request\PingRequest.cs" />
@@ -88,7 +88,7 @@
     <Compile Include="Messages\Response\CommonResponse.cs" />
     <Compile Include="Messages\Response\HotelInformationResponse.cs" />
     <Compile Include="Messages\Response\HotelListResponse.cs" />
-    <Compile Include="Messages\Response\HotelRoomAvailabilityResponse.cs" />
+    <Compile Include="Messages\Response\RoomAvailabilityResponse.cs" />
     <Compile Include="Messages\Response\HotelRoomCancellationResponse.cs" />
     <Compile Include="Messages\Response\HotelRoomResponse.cs" />
     <Compile Include="Messages\Response\LocationInfoResponse.cs" />
@@ -96,6 +96,7 @@
     <Compile Include="Messages\Room.cs" />
     <Compile Include="Messages\RoomAmenities.cs" />
     <Compile Include="Messages\RoomAmenity.cs" />
+    <Compile Include="Messages\RoomAvailabilityOption.cs" />
     <Compile Include="Messages\RoomGroup.cs" />
     <Compile Include="Messages\RoomImage.cs" />
     <Compile Include="Messages\RoomImages.cs" />
