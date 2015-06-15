@@ -54,6 +54,7 @@
             request.AddParameter("minorRev", MinorRev);
             request.AddParameter("currencyCode", CurrencyCode);
             request.AddParameter("locale", Locale);
+            request.AddParameter("sig", Sig);
 
             if(CustomerUserAgent.HasValue())
                 request.AddParameter("customerUserAgent", CustomerUserAgent);
@@ -152,9 +153,11 @@
                     request.AddParameter("stateProvinceCode", hotelListRequest.StateProvinceCode);
             }
 
-            // Default this to 50 per request
-            request.AddParameter("numberOfResults", 50);
-            request.AddParameter("supplierType", "E"); // Expedia Collect Properties
+            if (hotelListRequest.NumberOfResults.HasValue)
+                request.AddParameter("numberOfResults", hotelListRequest.NumberOfResults.Value);
+
+            if (hotelListRequest.SupplierType.HasValue)
+                request.AddParameter("supplierType", hotelListRequest.SupplierType.Value.ToString());
 
             HandleFilteringMethods(request, hotelListRequest);
 
